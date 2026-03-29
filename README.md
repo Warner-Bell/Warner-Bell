@@ -78,7 +78,7 @@ Agentic and generative AI workflows and solutions. Cloud-native architecture. Op
 
 ## Writing
 
-I write about AI, agentic systems, and the practitioner's path at **[TechStar Endeavors on Substack](https://techstar.substack.com)**.
+I write about AI, agentic systems, and the practitioner's path at **[Agentic Ground Truth on Substack](https://techstar.substack.com)**.
 
 ---
 
