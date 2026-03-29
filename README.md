@@ -6,7 +6,7 @@
 
 Building intelligent systems that compound in value over time.
 
-[![Tap In!](https://img.shields.io/badge/Tap_In!-Connect-blue?style=for-the-badge)](https://dot.cards/warnerbell)
+[![Tap In!](https://img.shields.io/badge/Tap_In!-blue?style=for-the-badge)](https://dot.cards/warnerbell)
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-orange?style=for-the-badge&logo=substack&logoColor=white)](https://techstar.substack.com)
 
 </div>
