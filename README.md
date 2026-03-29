@@ -7,7 +7,8 @@
 Building intelligent systems that compound in value over time.
 
 [![Contact](https://img.shields.io/badge/Tap_In!-Connect-blue?style=for-the-badge)](https://dot.cards/warnerbell)
-[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange?style=for-the-badge&logo=substack&logoColor=white)](https://techstarwarner.substack.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warnerbell)
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange?style=for-the-badge&logo=substack&logoColor=white)](https://techstar.substack.com)
 
 </div>
 
@@ -56,7 +57,7 @@ Building intelligent systems that compound in value over time.
 
 ## Writing
 
-I write about AI, agentic systems, and the practitioner's path at **[TechStar on Substack](https://techstarwarner.substack.com)**.
+I write about AI, agentic systems, and the practitioner's path at **[TechStar on Substack](https://techstar.substack.com)**.
 
 ---
 
