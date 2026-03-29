@@ -16,9 +16,11 @@ Building intelligent systems that compound in value over time.
 
 ## What I'm Building
 
-**[The Nathaniel Protocol](https://github.com/Warner-Bell/The-Nathaniel-Protocol)** — An open-source context engineering framework for persistent AI personas that remember, learn, and evolve. 28 documented techniques, a full intelligence ecosystem, and a portable workspace architecture (Pocket HQ) that fits on a flash drive. Built from 4+ months of daily use, now packaged as a template for the community.
+Agentic and generative AI workflows and solutions. Cloud-native architecture. Open-source frameworks.
 
-**Gadgetools Unlimited** — My company. AI/ML, cloud architecture, full-stack development, and agentic systems.
+**[The Nathaniel Protocol](https://github.com/Warner-Bell/The-Nathaniel-Protocol)** — An open-source context engineering framework for persistent AI personas that remember, learn, and evolve.
+
+**Gadgetools Unlimited** — My company. AI/ML, cloud architecture, and agentic systems.
 
 ---
 
