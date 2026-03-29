@@ -18,7 +18,7 @@ Building intelligent systems that compound in value over time.
 
 Agentic and generative AI workflows and solutions. Cloud-native architecture. Open-source frameworks.
 
-**TechStar** — My brand. AI/ML, cloud architecture, and building intelligent systems that compound in value over time.
+**TechStar Endeavors** — My brand. AI/ML, cloud architecture, and building intelligent systems that compound in value over time.
 
 ---
 
@@ -57,7 +57,7 @@ Agentic and generative AI workflows and solutions. Cloud-native architecture. Op
 
 ## Writing
 
-I write about AI, agentic systems, and the practitioner's path at **[TechStar on Substack](https://techstar.substack.com)**.
+I write about AI, agentic systems, and the practitioner's path at **[TechStar Endeavors on Substack](https://techstar.substack.com)**.
 
 ---
 
@@ -75,7 +75,7 @@ I write about AI, agentic systems, and the practitioner's path at **[TechStar on
 
 <div align="center">
 
-**Founder, TechStar**
+**Founder, TechStar Endeavors**
 
 *Build platforms, not point solutions.*
 
