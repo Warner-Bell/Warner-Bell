@@ -18,7 +18,7 @@ Building intelligent systems that compound in value over time.
 
 Agentic and generative AI workflows and solutions. Cloud-native architecture. Open-source frameworks.
 
-**Gadgetools Unlimited** — My company. AI/ML, cloud architecture, and agentic systems.
+**TechStar** — My brand. AI/ML, cloud architecture, and building intelligent systems that compound in value over time.
 
 ---
 
@@ -75,7 +75,7 @@ I write about AI, agentic systems, and the practitioner's path at **[TechStar on
 
 <div align="center">
 
-**Founder, Gadgetools Unlimited**
+**Founder, TechStar**
 
 *Build platforms, not point solutions.*
 
