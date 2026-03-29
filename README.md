@@ -18,8 +18,6 @@ Building intelligent systems that compound in value over time.
 
 Agentic and generative AI workflows and solutions. Cloud-native architecture. Open-source frameworks.
 
-**[The Nathaniel Protocol](https://github.com/Warner-Bell/The-Nathaniel-Protocol)** — An open-source context engineering framework for persistent AI personas that remember, learn, and evolve.
-
 **Gadgetools Unlimited** — My company. AI/ML, cloud architecture, and agentic systems.
 
 ---
