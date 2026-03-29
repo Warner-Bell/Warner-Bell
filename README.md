@@ -32,9 +32,11 @@ Building intelligent systems that compound in value over time.
 
 ## Certifications
 
+![AWS SAP](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS DVA](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS SOA](https://img.shields.io/badge/AWS-SysOps_Administrator_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS AIP](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
