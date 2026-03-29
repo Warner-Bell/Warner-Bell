@@ -1,64 +1,81 @@
-# 💫 About Me:
-- 🔭 I’m currently working on **cloud-native architectures, AWS, and DevOps practices**.<br><br>
-- 🌱 I’m constantly learning **all things cloud** to stay ahead of the curve.<br><br>
-- 👯 I’m open to collaborating on **exciting cloud and DevOps projects**.<br><br>
-- 🤝 I’m looking for help with **finding unique cloud challenges to tackle**.<br><br>
-- 📝 I regularly write articles on [Medium](https://medium.com/@Warner_Bell).<br><br>
-- 💬 Ask me about **Cloud Computing, DevOps, or Serverless**.<br><br>
-- 📫 How to reach me: **[Click](https://dot.cards/warnerbell)**.<br><br>
-- ⚡ Fun fact: **I'm a Trekkie**—I find inspiration in the tech innovations from Star Trek and love applying those futuristic ideas to real-world cloud projects.
+<div align="center">
+
+# Warner Bell
+
+**AI/ML Engineer · Cloud Architect · Builder**
+
+Building intelligent systems that compound in value over time.
+
+[![Contact](https://img.shields.io/badge/Tap_In!-Connect-blue?style=for-the-badge)](https://dot.cards/warnerbell)
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange?style=for-the-badge&logo=substack&logoColor=white)](https://techstarwarner.substack.com)
+
+</div>
 
 ---
 
-# 🏅 Certifications:
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Developer – Associate
-- AWS Certified SysOps Administrator – Associate
-- AWS Certified Cloud Practitioner
-- Microsoft Azure Fundamentals
+## What I'm Building
+
+**[The Nathaniel Protocol](https://github.com/Warner-Bell/The-Nathaniel-Protocol)** — An open-source context engineering framework for persistent AI personas that remember, learn, and evolve. 28 documented techniques, a full intelligence ecosystem, and a portable workspace architecture (Pocket HQ) that fits on a flash drive. Built from 4+ months of daily use, now packaged as a template for the community.
+
+**Gadgetools Unlimited** — My company. AI/ML, cloud architecture, full-stack development, and agentic systems.
 
 ---
 
-# 💻 Tech Stack:
+## Focus Areas
 
-**Frontend**:  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
-**Backend/Cloud**:  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white)  
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)  
-**Databases**:  
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  
-**Scripting & Automation**:  
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=plastic&logo=yaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
-**Other Tools**:  
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
-
+- **Agentic AI** — Building AI partners, not chatbots. Persistent memory, learning systems, proactive behavior.
+- **Context Engineering** — The emerging discipline of designing what an AI knows, when it knows it, and how it retrieves it.
+- **Cloud Architecture** — AWS-native, serverless-first, cost-optimized. 5x AWS certified.
+- **Open Source** — Sharing frameworks and patterns that took real work to figure out.
 
 ---
 
-# 📂 Pinned Repositories:
-- [Later](https://github.com/Warner-Bell/CloudFormation-Templates)  
-- [Later](https://github.com/Warner-Bell/AWS-Serverless-App)  
+## Certifications
+
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS DVA](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS SOA](https://img.shields.io/badge/AWS-SysOps_Administrator_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Warner-Bell&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Warner-Bell&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Warner-Bell&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Tech Stack
+
+**AI/ML**: Python · Bedrock · Strands Agents · AgentCore · LangChain · Context Engineering
+
+**Cloud**: AWS (primary) · Azure · Serverless · CDK · CloudFormation · Terraform
+
+**Development**: TypeScript · Python · Bash · Full-Stack · API Design
+
+**DevOps**: CI/CD · Docker · Git · Infrastructure as Code
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Warner-Bell&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+## Writing
+
+I write about AI, agentic systems, and the practitioner's path at **[TechStar on Substack](https://techstarwarner.substack.com)**.
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Warner-Bell&theme=swift&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Warner-Bell&theme=swift&hide_border=true)
+
+</div>
 
 ---
+
+<div align="center">
+
+**Founder, Gadgetools Unlimited**
+
+*Build platforms, not point solutions.*
 
 [![](https://visitcount.itsvg.in/api?id=Warner-Bell&icon=3&color=1)](https://visitcount.itsvg.in)
 
----
+</div>
