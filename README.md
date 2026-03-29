@@ -2,7 +2,7 @@
 
 # Warner Bell
 
-**AI/ML Engineer · Cloud Architect · Builder**
+**Cloud AI Architect · Builder**
 
 Building intelligent systems that compound in value over time.
 
